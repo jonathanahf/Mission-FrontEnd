@@ -1,5 +1,5 @@
 # Mission-FrontEnd
 Practicas de FrontEnd
 #
-## [Practicas de introdicción a Frront-End] ("Practicas de Intro a Frontend")
+## [Practicas de introdicción a Frront-End] ("Practicas de Intro a Frontend"/)
 hola estoy haciendo un pull
