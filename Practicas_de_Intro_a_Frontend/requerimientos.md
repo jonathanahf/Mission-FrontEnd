@@ -1,4 +1,4 @@
-#Toma de requerimientos de un proyecto.
+#Toma de requerimientos de un proyecto
 << [...] la toma de requerimientos se define como un proceso enfocado en el usuario y sus necesidades, en donde cada una de sus etapas influyen en la obtención de documentos representativos para el proyecto y las necesidades reales de los usuarios, depuradas en base a procesos que se llevan a cabo en el desarrollo del software.>>
 (Lozano, 2021)
 Lozano, Y. A. (2021). ***Guía met Guía metodológica par odológica para la toma de r oma de requerimient equerimientos en sistemas os en sistemas de información aplicando la norma IREB INTERNATIONAL REQUIREMENTS ENGINEERING BOARD.*** https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=2066&context=sistemas_informacion_documentacion#:~:text=As%C3%AD%20las%20cosas%2C%20la%20toma,llevan%20a%20cabo%20en%20el
