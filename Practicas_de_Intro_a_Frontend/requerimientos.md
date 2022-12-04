@@ -23,8 +23,8 @@
 *   La página debe de ser responsive para poderla ver desde el celular.
 *   La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-|       |
+|  Logo |
 | :---: |
-|![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Freunion-abogado%2F88&psig=AOvVaw1NdIbNNWAy7jU3D36kJxD2&ust=1670213060809000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOicjNSK3_sCFQAAAAAdAAAAABAK)|
+|![image](https://img.freepik.com/vector-premium/ilustracion-mascota-calendario-como-abogado_152558-74731.jpg)|
 |  <sup>Esta imagen fue tomada de internet con fines aprotación a la práctica</sup> |
 
