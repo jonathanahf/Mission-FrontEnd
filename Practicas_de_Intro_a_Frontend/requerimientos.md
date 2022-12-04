@@ -23,8 +23,8 @@
 *   La página debe de ser responsive para poderla ver desde el celular.
 *   La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-|  Logo |
+<center> |  Logo |
 | :---: |
 |![image](https://img.freepik.com/vector-premium/ilustracion-mascota-calendario-como-abogado_152558-74731.jpg)|
-|  <sup>Esta imagen fue tomada de internet con fines aprotación a la práctica</sup> |
+|  <sup>Esta imagen fue tomada de internet con fines aprotación a la práctica</sup> |</center>
 
