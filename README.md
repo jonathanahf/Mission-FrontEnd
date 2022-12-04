@@ -1,7 +1,5 @@
 # Mission-FrontEnd
 Practicas de FrontEnd
 #
-## [Practicas de introdicción a Frront-End](Practicas_de_Intro_a_Frontend/requerimientos.md)
-hola estoy haciendo un pull
+## [Practicas de introdicción a Front-End](Practicas_de_Intro_a_Frontend/requerimientos.md)
 
-Hola ahora estoy haciendo un push
