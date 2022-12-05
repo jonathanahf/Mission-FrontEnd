@@ -30,7 +30,7 @@
 <sup>Estas imagenes son tomadas de internet con fines ilustación y aprotación a la práctica</sup>
 
 ### DESCRIPCION GENERAL DEL REQUERIMIENTO
-
+|       |           |
 | :---: |   :---    |
 |   PROYECTO |	Diligenciar el nombre del proyecto por parte del área o proceso solicitante |
 |   Nombre Requerimiento: |    Diligenciar el nombre del proyecto o desarrollo de software por parte del área o proceso solicitante   |
