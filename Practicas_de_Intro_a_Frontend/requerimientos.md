@@ -23,7 +23,7 @@
 *   La página debe de ser responsive para poderla ver desde el celular.
 *   La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-|  Logo |
+|  Logo             |  
 | :---: |   :---:   |
 |![image](https://img.freepik.com/vector-premium/ilustracion-mascota-calendario-como-abogado_152558-74731.jpg)|![image](https://legalmex.com/wp-content/uploads/2020/07/twa_2018_12_ai_job_search_hero-600x450.jpg)|
 |  <sup>Estas imagenes son tomadas de internet con fines ilustación y aprotación a la práctica</sup> |
