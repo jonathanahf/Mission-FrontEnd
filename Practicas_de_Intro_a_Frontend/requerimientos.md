@@ -5,7 +5,7 @@
 <sup>Lozano, Y. A. (2021). *Guía met Guía metodológica par odológica para la toma de r oma de requerimient equerimientos en sistemas os en sistemas de información aplicando la norma IREB INTERNATIONAL REQUIREMENTS ENGINEERING BOARD.* https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=2066&context=sistemas_informacion_documentacion#:~:text=As%C3%AD%20las%20cosas%2C%20la%20toma,llevan%20a%20cabo%20en%20el</sup>
 ## FASES REQUERIMIENTO DE SOFTWARE
 
-1.  DESCRIPCION GENERAL DEL REQUERIMIENTO
+1.  [DESCRIPCION GENERAL DEL REQUERIMIENTO](#descripcion-general-del-requerimiento)
 3.  FASE DE FORMALIZACIÓN
 4.  ANALISIS DE REQUISITOS Y REQUERIMIENTOS
 5.  LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
@@ -27,11 +27,6 @@
 | :---: | :---: |
 |![image](https://img.freepik.com/vector-premium/ilustracion-mascota-calendario-como-abogado_152558-74731.jpg)|![image](https://legalmex.com/wp-content/uploads/2020/07/twa_2018_12_ai_job_search_hero-600x450.jpg)|
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/vector-premium/ilustracion-mascota-calendario-como-abogado_152558-74731.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://legalmex.com/wp-content/uploads/2020/07/twa_2018_12_ai_job_search_hero-600x450.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
 <sup>Estas imagenes son tomadas de internet con fines ilustación y aprotación a la práctica</sup>
 
+### DESCRIPCION GENERAL DEL REQUERIMIENTO
