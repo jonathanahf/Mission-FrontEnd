@@ -30,10 +30,11 @@
 <sup>Estas imagenes son tomadas de internet con fines ilustación y aprotación a la práctica</sup>
 
 ### DESCRIPCION GENERAL DEL REQUERIMIENTO
-| :---: |   ---:    |
+
+| :---: |   :---    |
 |   PROYECTO |	Diligenciar el nombre del proyecto por parte del área o proceso solicitante |
 |   Nombre Requerimiento: |    Diligenciar el nombre del proyecto o desarrollo de software por parte del área o proceso solicitante   |
-|   Fecha Solicitud:    |	DD/MM//AAAA
+|   Fecha Solicitud:    |	DD/MM//AAAA |
 |   Responsable(s) Solicitud:   |   Nombre del responsable de la solicitud  |
 |   Dependencia(s) Solicitante: |	Nombre del área o dependencia a la que hace parte el responsable de la solicitud    |
 |   Responsable Funcional designado por el equipo de desarrollo de software:    |	Nombre del responsable del análisis funcional de la solicitud, establecido por el equipo de desarrollo de software  |
