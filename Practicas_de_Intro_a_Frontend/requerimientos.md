@@ -55,11 +55,12 @@
 
 ##### ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
-```
+```mermaid
 graph TD;
-    a --> b;
-    b --> c;
-
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 
