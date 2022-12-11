@@ -58,6 +58,9 @@
 ```mermaid
 graph TD;
     Registro-->Login;
+    Login-->Fail;
+    Login-->Success;
+    Fail-->Registro;
     
 ```
 
