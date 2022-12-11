@@ -7,7 +7,7 @@
 
 1.  [DESCRIPCION GENERAL DEL REQUERIMIENTO](#descripcion-general-del-requerimiento)
 3.  [FASE DE FORMALIZACIÓN](#fase-de-formalización)
-4.  ANALISIS DE REQUISITOS Y REQUERIMIENTOS
+4.  [ANALISIS DE REQUISITOS Y REQUERIMIENTOS](#analisis-de-requisitos-y-requerimientos)
 5.  LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
 6.  DISEÑO DE LA ARQUITECTURA DE SOLUCION
 
@@ -30,8 +30,8 @@
 <sup>Estas imagenes son tomadas de internet con fines ilustación y aprotación a la práctica</sup>
 
 ##### DESCRIPCION GENERAL DEL REQUERIMIENTO
-|       |           |
-| :--- |   :---    |
+|||
+| :-- | :-- |
 |   PROYECTO |	Abogabot |
 |   Nombre Requerimiento: |    Automatización de damandas   |
 |   Fecha Solicitud:    |	DD/MM//AAAA |
@@ -42,16 +42,18 @@
 ##### Fase de formalización
 
 | <center/> Descripción de la solicitud |
-|:---------------------------|
-| __Usuario solicitante__ |
+|:--------------------------------------|
+| __Usuario solicitante__               |
 | <p> Se requiere crear una página web donde el solicitante tenga que registrarse; tras rellenar un formulario con los datos necesarios para levantar acta (se generara un documento Word con los datos del cliente) deberá realizarse un pago; el pago deberá verse reflejado del lado del administrador, una vez que el administrador confirme el pago el usuario será notificado por medio de correo electrónico que su caso está siendo atendido (los correros llegaran de forma periódica para mantener informado al cliente); así mismo el cliente también podrá dar seguimiento a través del portal donde podrá interactuar por medio de comentarios por parte del abogado asignado. </p> |
 | __Lider funcional__ |
 | <p> Se diseñara un aplicación web donde el usuario se registrara; podrá iniciar sesión, rellenar un formulario, hacer pago por un servicio, una vez echo el pago y verificado por él administrador se generara de forma automática un documento Word con el formato que el despacho haya dado y contendrá los datos de usuario, el caso se le será asignado a un abogado que se encuentre dentro de la base datos y, él abogado será notificado de su asignación por medio de correo electrónico (este correo contendrá el documento del cliente. El abogado iniciará sesión en la aplicación para actualizar el seguimiento del caso y añadir comentarios, una vez el abogado termine sus actividades, el usuario será notificado por medio de correo electrónico del estado de su caso. Herramientas a usar: HTML5, SCSS, Node, React, javascrip, mysql… </p> |
 
-| <p align= left> FIRMAS DE ACEPTACIÓN: </p> ||
+| <p align= left> __FIRMAS DE ACEPTACIÓN:__ </p> ||
 |:--:| :--:|
 |_|
 |Nombre Responsable Solicitud Dependencia Solicitante| Nombre Líder OTI Oficina Tecnologías de la Información|
+
+##### ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
 
 
