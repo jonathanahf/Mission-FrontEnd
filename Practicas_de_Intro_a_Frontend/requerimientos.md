@@ -57,11 +57,12 @@
 
 ```mermaid
 graph TD;
-    Sa0(Sign Up)
-    Sa1(Sig in)
+    sa0(Registro)
+    sa1{Inicio de sesión}
+    sa2(Página principal)
     Sa0-->Sa1;
-    Login-->Fail;
-    Login-->Success;
+    sa1-->sa0;
+    sa1-->sa2;
     Fail-->Registro;
     
 ```
