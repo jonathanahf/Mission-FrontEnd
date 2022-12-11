@@ -57,7 +57,9 @@
 
 ```mermaid
 graph TD;
-    (Sign Up)-->(Sig in);
+    Sa0(Sign Up)
+    Sa1(Sig in)
+    Sa0-->Sa1;
     Login-->Fail;
     Login-->Success;
     Fail-->Registro;
