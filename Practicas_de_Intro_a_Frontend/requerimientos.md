@@ -57,13 +57,24 @@
 
 ```mermaid
 graph TD;
-    sa0(Registro)
-    sa1{Inicio de sesión}
-    sa2(Página principal)
-    sa0-->sa1;
-    sa1-->sa0;
-    sa1-->sa2;
-    Fail-->Registro;
+
+    subgraph modelo
+
+        subgraph BranchMain
+            sa0(Registro)
+            sa1{Inicio de sesión}
+            sa2{Página principal}
+            sa3(Formulario)
+            sa4(Pago)
+            sa5(Seguimiento)
+
+            sa0-->sa1;
+            sa1-->sa0;
+            sa1-->sa2;
+        end
+
+    end
+    
     
 ```
 
