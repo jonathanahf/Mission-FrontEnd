@@ -60,7 +60,7 @@ graph TD;
     sa0(Registro)
     sa1{Inicio de sesión}
     sa2(Página principal)
-    Sa0-->Sa1;
+    sa0-->sa1;
     sa1-->sa0;
     sa1-->sa2;
     Fail-->Registro;
