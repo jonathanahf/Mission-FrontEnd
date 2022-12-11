@@ -55,5 +55,12 @@
 
 ##### ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
+```
+graph TD;
+    a --> b;
+    b --> c;
+
+```
+
 
 
