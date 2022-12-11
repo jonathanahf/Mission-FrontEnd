@@ -57,7 +57,7 @@
 
 ```mermaid
 graph TD;
-    A-->B;
+    Registro-->"Inicio de sesión";
     A-->C;
     B-->D;
     C-->D;
