@@ -64,7 +64,6 @@ graph TD;
     sa3(Formulario)
     sa4{Pago}
     sa5{Seguimiento}
-    sa6()
 
     sa0-->sa1;
     sa1-->sa0;
