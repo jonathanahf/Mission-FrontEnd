@@ -55,7 +55,9 @@
 
 ##### ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
-```mermaid
+|Modelo de negocio|
+|:--:|
+| ```mermaid
 graph TD;
     
     sa0(Registro)
@@ -73,9 +75,8 @@ graph TD;
     sa4-->sa2;
     sa2-->sa5;
     sa5-->sa2;
-
     
-```
+``` |
 
 
 
