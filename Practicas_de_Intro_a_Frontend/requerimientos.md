@@ -66,13 +66,14 @@ graph TD;
     sa5(Seguimiento)
 
     sa0-->sa1;
-    sa1-->sa0;
+    sa1-->sa0: error;
     sa1-->sa2;
     sa2-->sa3;
     sa3-->sa4;
-    sa4-->sa5;
     sa4-->sa2;
     sa2-->sa5;
+    sa5-->sa2;
+
     
 ```
 
