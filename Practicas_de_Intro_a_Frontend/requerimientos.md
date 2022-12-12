@@ -6,10 +6,12 @@
 ## FASES REQUERIMIENTO DE SOFTWARE
 
 1.  [DESCRIPCION GENERAL DEL REQUERIMIENTO](#descripcion-general-del-requerimiento)
-3.  [FASE DE FORMALIZACIÓN](#fase-de-formalización)
-4.  [ANALISIS DE REQUISITOS Y REQUERIMIENTOS](#analisis-de-requisitos-y-requerimientos)
-5.  LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
-6.  DISEÑO DE LA ARQUITECTURA DE SOLUCION
+2.  [FASE DE FORMALIZACIÓN](#fase-de-formalización)
+3.  [ANALISIS DE REQUISITOS Y REQUERIMIENTOS](#analisis-de-requisitos-y-requerimientos)
+4.  [FASE DE PLANEACIÓN Y GERENCIA DEL PROYECTO](#fase-de-planeación-y-gerencia-del-proyecto)
+5.  [LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO](#levantamiento-del-requerimiento-detallado)
+6. [DISEÑO DE LA ARQUITECTURA DE SOLUCION](#diseño-de-la-arquitectura-de-solucion)
+
 
 > Caso **Abogabot**
 
@@ -80,3 +82,15 @@ graph TD;
 
 
 
+
+##### FASE DE PLANEACIÓN Y GERENCIA DEL PROYECTO
+
+## Proceso de elaboración
+
+##### LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
+
+## Proceso de elaboración
+
+##### DISEÑO DE LA ARQUITECTURA DE SOLUCION 
+
+## Proceso de elaboración
